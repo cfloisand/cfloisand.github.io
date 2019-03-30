@@ -1,5 +1,14 @@
+
+@media screen and (max-width:812px) {
+    #content {
+        width: 100%;
+        margin: 0 auto;
+        text-align: left;
+    }
+}
+
 #content {
-    width: 100%;
+    width: 620px;
     margin: 0 auto;
     text-align: left;
 }
